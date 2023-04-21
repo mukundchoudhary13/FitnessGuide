@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638608187739",
+    "project_id": "gym-java-66d1e",
+    "storage_bucket": "gym-java-66d1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638608187739:android:33f70aa7f7b4e553fbba7e",
+        "android_client_info": {
+          "package_name": "com.abhisheksawant.FitnessGuide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638608187739-1in3j4judpf07s8kvpu7seat9uqadgkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDstCEHKDhu7CiLA5BoXW5XCQcX5zDTYw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638608187739-1in3j4judpf07s8kvpu7seat9uqadgkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
